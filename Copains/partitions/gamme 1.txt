@@ -1,0 +1,7 @@
+// Il s’agit de la gamme que vous connaissez, jouée au rythme de 1 note par pulsation:
+50
+
+C4 D4 E4 F4 G4 A4 B4 C5 
+
+
+// commentaire vers la fin qui ne devrait pas faire planter

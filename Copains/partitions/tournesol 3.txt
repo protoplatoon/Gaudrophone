@@ -1,0 +1,7 @@
+// Tournesol sur deux lignes
+120
+
+|G G A B | |G G A B | 
+
+|C C B A| | B B A G |
+

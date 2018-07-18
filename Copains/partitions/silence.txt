@@ -1,0 +1,5 @@
+// Pour mettre du silence, on peut utiliser la "note" "X" (avec la durée en dessous, en option)
+90
+
+C D X F G A C D5
+

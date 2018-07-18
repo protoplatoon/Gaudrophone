@@ -1,0 +1,4 @@
+// Pour faire un dièse on utilise le symbole #. Dans cet exemple on fait un ré dièse (encore une fois l'espace est optionnel)
+120
+
+C D# E F G A C5 D5# 	

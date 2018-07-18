@@ -1,0 +1,7 @@
+// Tournesol qui a bu de la boisson energisante
+// Le symbole "|" n'a aucune signification particulière. Il peut être utilisé par l'artiste pour regrouper ses notes en "mesures"
+// Vous pouvez les ignorer mais attention de ne pas désynchroniser les lignes de votre fichier.
+90
+
+|G G A B | |G G A B | |C C B A| | B B A G |
+ _ _ _ _    , , , ,    . . . .  | _ _ _ _ |

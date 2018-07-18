@@ -1,0 +1,4 @@
+// On peut aussi omettre le numéro de l'octave lorsqu'il s'agit du quatrième:
+60
+
+C D E F G A B C5

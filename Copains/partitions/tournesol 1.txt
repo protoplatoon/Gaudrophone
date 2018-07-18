@@ -1,0 +1,4 @@
+// "Le tournesol" (par le Professeur Tournesol)
+60
+
+G4 G4 A4 B4 G4 G4 A4 B4 C4 C4 B4 A4 B4 B4 A4 G4

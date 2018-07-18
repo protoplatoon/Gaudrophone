@@ -1,0 +1,8 @@
+// Gamme vitesse variable
+60
+
+C D E F G A B C5
+_ _ _ _ , , . . 
+
+
+
